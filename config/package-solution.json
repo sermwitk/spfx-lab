@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-lab-0-client-side-solution",
+    "id": "370cc156-b1e1-4c89-8bae-e80fa31db127",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-lab-0 description"
+      },
+      "longDescription": {
+        "default": "spfx-lab-0 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-lab-0 Feature",
+        "description": "The feature that activates elements of the spfx-lab-0 solution.",
+        "id": "b908d8c5-ac4a-404e-abed-09587562f41a",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-lab-0.sppkg"
+  }
+}

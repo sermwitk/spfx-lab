@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "whichFolder": "subdir",
+    "solutionName": "spfx-lab-0",
+    "componentType": "webpart",
+    "template": "react",
+    "componentName": "TaskManager",
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.22.2",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "spfx-lab-0",
+    "libraryId": "370cc156-b1e1-4c89-8bae-e80fa31db127",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionShortDescription": "spfx-lab-0 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false
+  }
+}
